@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "https://sacmi.github.io/WebLab3/static/js/main.7542a2d8.js",
+    "main.css": "https://sacmi.github.io/WebLab3/static/css/main.e7720ab7.css",
+    "index.html": "https://sacmi.github.io/WebLab3/index.html",
+    "main.e7720ab7.css.map": "https://sacmi.github.io/WebLab3/static/css/main.e7720ab7.css.map"
+  },
+  "entrypoints": [
+    "static/js/main.7542a2d8.js",
+    "static/css/main.e7720ab7.css"
+  ]
+}
